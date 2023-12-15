@@ -1,9 +1,6 @@
 # robofriends
-Tutorial for React
-To run the project:
+This project comes from the Zero to Mastery: Complete Web Developer Course. I coded alongside Andrei but made an error after fixing an issue that ultimately ruined my local and published files... 
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Nonetheless, I've upgraded this to use React Hooks now and am happy with how it turned out :) 
 
-*visist https://zerotomastery.io/ for more*
+I hope you enjoy -- thanks for checking it out. 
